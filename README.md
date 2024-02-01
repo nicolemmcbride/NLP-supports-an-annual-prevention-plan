@@ -24,4 +24,4 @@ Topic modeling suggested classroom learning, campaigns, advertisements other tha
 Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK, wordcloud, VADER sentiment, gensim
 
 ### Communication
-The analyses for questions 1-16 can be observed in Enclosure 1.
+The analyses for questions 1-16 can be observed in [Enclosure 1](https://github.com/nicolemmcbride/NLP-supports-an-annual-prevention-plan/blob/main/Enclosure%201.pdf).
