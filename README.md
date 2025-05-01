@@ -3,10 +3,10 @@
 ***Organization name, location, and clinic name were redacted in this summary and in Enclosure 1.***
 
 ### Abstract
-A variety of quantitative and qualitative methods were used to analyze the text from [CLINIC]’s 2022 annual prevention plan data collection. Of the 182 respondents, most were Junior [SERVICE MEMBERS] and those who had a longer connection to [LOCATION] and the [DOD SERVICE COMPONENT] reported more familiarity with the [CLINIC]. Suggestions to what else [CLINIC] Specialists can do to support [SERVICE MEMBERS] and their families were provided. The impression of the relationships [SERVICE MEMBERS] have with their children was more positive than the impressions with their significant others. A neutral sentiment was observed for command’s approach to family violence with most reporting not knowing their command’s approach.
+A variety of quantitative and qualitative methods were used to analyze the text from [CLINIC]’s 2022 annual prevention plan data collection. Of the respondents, most were Junior [SERVICE MEMBERS] and those who had a longer connection to [LOCATION] and the [DOD SERVICE COMPONENT] reported more familiarity with the [CLINIC]. Suggestions to what else [CLINIC] Specialists can do to support [SERVICE MEMBERS] and their families were provided. The impression of the relationships [SERVICE MEMBERS] have with their children was more positive than the impressions with their significant others. A neutral sentiment was observed for command’s approach to family violence with most reporting not knowing their command’s approach.
 
 ### Design
-A semi-structured interview question set was provided online via Qualtrics and answered by 182 respondents in the [NAME OF INSTALLATION] community. This data was collected to supplement [CLINIC]’s annual prevention plan. 
+A semi-structured interview question set was provided online via Qualtrics and answered by respondents in the [NAME OF INSTALLATION] community. This data was collected to supplement [CLINIC]’s annual prevention plan. 
 
 ### Data
 The question set contained 16 questions and responses were mostly provided as free text (i.e., not multiple choice or categorized responses). All features underwent data cleaning to allow the appropriate analysis depending on the feature. All analysis was performed in Python via Jupyter Notebooks to allow for reproducible analyses and syntax.
